@@ -1,0 +1,20 @@
+This program is a responsive website for a restaurant where users can read the details
+of the resturant. It is created utilizing Bootstrap. Following the client's criteria
+the website will provide the users a brief overview of the restaurant and its bestsellers, 
+its address, as well as an option to contact the restaurant. 
+
+I began the project by creating the main landing page which is named index.html. I was able to quickly 
+create a header for Restaurant name followed by a generic greeting for the user. I then created a footer, 
+which is the Client's motto. I then created a carousel to display the restaurant's best sellers. After
+completing this I moved on to the nav bar which will allow the user to redirect to the home page we just
+created as well as two other pages (menu and contact us). I then created the menu page next. I copied the
+template from the first page which had the restaurant name, the greeting, as well as the footer. I then 
+created a grid to display various food and drinks to successfully create the menu page. Upon completing
+this, I was able to then move on to the last page which is the contact page. Again, following the template
+from the first page. I then added a simple form where the user has to input their email so that the client
+can contact them as well as a box where the customer can input any questions and concerns they have.
+
+By writing this program, I have displayed various skills I have learned. I utilized Visual Studio Code which 
+helped me write my program as well as used Git for version control. HTML was utilized to define the content
+of the website, Bootstrap was used to build the website, JavaScript handled events and responses, and the
+JQuery was used to include JavaScript plugins like modals, tooltips, etc...
